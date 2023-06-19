@@ -21,6 +21,7 @@ By default, the client will run on `localhost:5173`.
 
 - [NPM](https://www.npmjs.com/)
 - [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ### Frontend
 
