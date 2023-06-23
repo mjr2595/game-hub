@@ -4,6 +4,8 @@
 
 Video game discovery web app leveraging the [rawg.io API](https://rawg.io/apidocs).
 
+![screenshot](https://i.imgur.com/bc9Sv9f.png)
+
 ## Getting Started
 
 To run in dev mode:
