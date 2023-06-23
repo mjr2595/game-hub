@@ -1,9 +1,8 @@
 import axios from "axios";
-import { baseURL, secretKey } from "../../config.ts";
 
 export default axios.create({
-  baseURL: baseURL,
+  baseURL: "https://api.rawg.io/api",
   params: {
-    key: secretKey,
+    key: "f2437dfa1f4b4c5a97c25aacce4514de",
   },
 });
