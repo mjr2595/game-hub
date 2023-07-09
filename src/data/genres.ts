@@ -589,7 +589,8 @@ export default [
     name: "Sports",
     slug: "sports",
     games_count: 20621,
-    image_background: "https://media.rawg.io/media/screenshots/f5a/f5abab52c4d606551cd5ec3ab709e501.jpg",
+    image_background:
+      "https://media.rawg.io/media/screenshots/f5a/f5abab52c4d606551cd5ec3ab709e501.jpg",
     games: [
       {
         id: 3272,
@@ -724,7 +725,8 @@ export default [
     name: "Board Games",
     slug: "board-games",
     games_count: 8314,
-    image_background: "https://media.rawg.io/media/screenshots/60e/60ef1b1853c35da13bc2ca9cbd1c0539.jpeg",
+    image_background:
+      "https://media.rawg.io/media/screenshots/60e/60ef1b1853c35da13bc2ca9cbd1c0539.jpeg",
     games: [
       {
         id: 23557,
@@ -769,7 +771,8 @@ export default [
     name: "Educational",
     slug: "educational",
     games_count: 15644,
-    image_background: "https://media.rawg.io/media/screenshots/9d4/9d45ba1c76712ad692fadda67f2777a9.jpeg",
+    image_background:
+      "https://media.rawg.io/media/screenshots/9d4/9d45ba1c76712ad692fadda67f2777a9.jpeg",
     games: [
       {
         id: 1358,
