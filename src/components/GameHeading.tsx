@@ -7,14 +7,15 @@ interface Props {
   gameQuery: GameQuery;
 }
 
-const GameHeading = ({ gameQuery }: Props) => {
-  /*
+/*
   4 options: 
   - Games
   - Action Games
   - Xbox Games
   - Xbox Action Games
   */
+
+const GameHeading = ({ gameQuery }: Props) => {
   const genre = useGenre(gameQuery.genreId);
   const platform = usePlatform(gameQuery.platformId);
 
